@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HamburgueseriaUIState</string>
+    <string name="hamburguesa_simple">Hamburguesa Simple</string>
+    <string name="hamburguesa_doble">Hamburguesa Doble</string>
+    <string name="hamburguesa_con_queso">Hamburguesa Queso</string>
+    <string name="pantalla_principal">Pantalla Principal</string>
+    <string name="pantalla_pedido">Pantalla Pedido</string>
+    <string name="pantalla_historico">Pantalla Historico</string>
+    <string name="pantalla_ingredientes">Pantalla Ingredientes</string>
+    <string name="titulo_principal">Hamburguesería Agustín</string>
+    <string name="titulo_ingredientes">Ingredientes</string>
+</resources>
